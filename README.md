@@ -103,14 +103,6 @@ deteccao-discurso-ofensivo-pln
 │
 ├── artigo/
 │   └── DiscursodeOdio_PI4.pdf
-│
-├── imagens/
-│   ├── distribuicao_sentimentos.png
-│   ├── polaridade_classes.png
-│   ├── matrizes_confusao.png
-│   └── metricas_modelos.png
-│
-└── modelos/
 ```
 
 ---
@@ -145,6 +137,6 @@ Graduanda em Ciência de Dados — Fatec Rubens Lara
 
 ---
 
-## 📚 Projeto Integrador IV - 2025
+## 📚 Projeto Integrador IV - 2026
 
 Desenvolvido como parte das atividades do curso de Ciência de Dados da Fatec Rubens Lara.
